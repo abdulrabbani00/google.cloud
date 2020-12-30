@@ -28,9 +28,9 @@ and a `gcp_cred.json` file will need to created. Instructions can be found in
 The code outline needs to be integrated to the standard provided by GCP.
 Some open items
 
-# Make the code work
-# Make the Unit test work
-# Integrate the current method of authentication.
-# Get in contact with someone who maintains the code body.
-# Ask for guidance
-# Create playbook.
+1. Make the code work
+2. Make the Unit test work
+3. Integrate the current method of authentication.
+4. Get in contact with someone who maintains the code body.
+5. Ask for guidance
+6. Create playbook.
